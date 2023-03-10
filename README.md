@@ -6,7 +6,6 @@
 <p align="center">
     <a href="https://linkedin.com/in/kiernan-mcvay" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiernan-mcvay" height="25" width="35" /></a>
 </p>
-<br>
 
 <h3 align="center">
     Full Stack Developer || Software Engineer
@@ -30,6 +29,9 @@
 <li>Version Control Systems [Git, Github] </li>
 <li>Other [Agile, Scrum, RESTful Architecture & API, MVC] </li>
 </ul>
+<br>
+    
+<p>📫 How to reach me: kiernanmcvay@gmail.com </p>
 
 <!--
 **KierMc/KierMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
