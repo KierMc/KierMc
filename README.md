@@ -2,16 +2,17 @@
     Kiernan McVay
 </h1>
 
-<h3 align="center">Connect with me: </h3>
+<h4 align="center">Connect with me: </h4>
 <p align="center">
     <a href="https://linkedin.com/in/kiernan-mcvay" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiernan-mcvay" height="25" width="35" /></a>
 </p>
+<br>
 
-<p align="center">
-    Full Stack Developer | Software Engineer
+<h3 align="center">
+    Full Stack Developer || Software Engineer
     <br>
     HTML/CSS/Javascript, Python/Flask, Java/Spring, MERN (MongoDB, Express, React, Node.js)
-</p>
+</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
